@@ -3,6 +3,7 @@ Implementation of Bubble, Insertion, Selection, Quick, Merge, Radix and Heap sor
 
 ## Acknowledgements
 - [modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template) by filipdutescu
+- Implementation of timer from TheCherno's [video](https://www.youtube.com/watch?v=oEx5vGNFrLk)
 - Countless StackOverflow answers for explaination
 - Wikipedia for algorithms and explaination
 
