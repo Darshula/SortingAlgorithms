@@ -7,6 +7,6 @@ Implementation of Bubble, Insertion, Selection, Quick, Merge, Radix and Heap sor
 - Wikipedia for algorithms and explaination
 
 ## To Do
-- Fix Radix sort 
-- Unit testing
-- Creating a header-only library for all sorting algorithms
+- [ ] Fix Radix sort 
+- [ ] Unit testing
+- [ ] Creating a header-only library for all sorting algorithms
